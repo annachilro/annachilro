@@ -11,9 +11,6 @@ I'm Soso, a biotech enthusiast exploring the world of software engineering. My j
 ### 🖥️ Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annachilro&layout=compact&theme=dracula&langs_count=10)
 
-### 📅 GitHub Contributions
-![Sofia's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=teu-username&theme=dracula)
-
 ### 🛠️ Tools & Technologies
 ![Shell](https://img.shields.io/badge/Shell-1f1f1f?style=flat-square&logo=gnu-bash)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
