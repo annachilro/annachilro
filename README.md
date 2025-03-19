@@ -25,7 +25,4 @@ I'm Soso, a biotech enthusiast exploring the world of software engineering. My j
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sofia-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anachilro)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:anapinheirochilro@gmail.com)
 
-### 🌟 Achievements
-![GitHub Achievements](https://github-readme-stats.vercel.app/api/top-langs/?username=annachilro&layout=compact&theme=dracula&langs_count=10)
-
 🚀 Always learning, always curious!
