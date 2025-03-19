@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 🌈
 
-<!--
-**annachilro/annachilro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 Biotech meets Code
+I'm Soso, a biotech enthusiast exploring the world of software engineering. My journey is focused on bioinformatics and computational biology, blending science with technology. Currently diving into Shell scripting, C programming, and learning Python. Passionate about problem-solving and eager to build solutions that bridge biology and tech.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack & Interests
+💻 **Programming:** Shell, C, Python  
+🔬 **Fields:** Bioinformatics, Computational Biology  
+🛠 **Tools:** Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annachilro&layout=compact&theme=dracula&langs_count=10)
+
+### 🌍 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sofia-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anachilro)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:anapinheirochilro@gmail.com)
+
+🚀 Always learning, always curious!
