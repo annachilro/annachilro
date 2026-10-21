@@ -3,7 +3,7 @@
 ### Biotech meets Code
 I'm Soso, a biotech enthusiast exploring the world of software engineering. My journey is focused on bioinformatics and computational biology, blending science with technology. Currently diving into Shell scripting, C programming, and learning Python. Passionate about problem-solving and eager to build solutions that bridge biology and tech.
 
-### 🔧 Tech Stack & Interests
+### Tech Stack & Interests
 **Programming:** Shell, C, Python  
 **Fields:** Bioinformatics, Computational Biology  
 **Tools:** Git, Linux
